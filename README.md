@@ -30,6 +30,7 @@ Here’s a sample `README.md` for the **frontend part** of your **Zwigato** food
 * **Context API / Redux** (if used)
 
 ---
+clone this repository: https://github.com/sachinkumar012/Zwigato.git
 
 ## 📁 Folder Structure
 
